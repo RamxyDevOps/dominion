@@ -7,3 +7,4 @@ my deployment wip
 [development 09cd05b] wip
  1 file changed, 3 insertions(+)
 my deployment wip
+my apps
